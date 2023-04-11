@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="title">Sudoku Mobile</string>
+    <string name="play">Play</string>
+    <string name="quit">Quit</string>
+    <string name="rules">Rules</string>
+    <string name="rules_info">Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 sub-grids that compose the grid contain all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which has a single solution.\nUsers signed in with an email are featured on the leaderboards and are permitted to save and load games. Using either of the solving buttons makes the solve invalid for the leaderboards. Additionally any subsequent solves of the same sudoku board will not be counted towards the user\'s score. The score comes from the saved, solved boards and users are free to delete their own saved solves if they wish to do so, however, it will affect their score.\nUsers are ranked primarily for the amount of sudokus solved. Sudokus solved on Easy, Medium and Hard difficulties are worth one, two and three points respectively. If these points are equal between multiple users, the fastest time is compared. Good luck and have fun!</string>
+    <string name="back">Back</string>
+    <string name="load_sudoku">Load sudoku</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="erase">Erase</string>
+    <string name="reset">Reset</string>
+    <string name="notes">Notes</string>
+    <string name="log_in">Log in</string>
+    <string name="log_out">Log out</string>
+    <string name="delete">Delete</string>
+    <string name="load">Load</string>
+    <string name="solve">Solve board</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="delete_all">Delete all</string>
+    <string name="made_by">Made by Irri V.</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="solve_cell">Solve cell</string>
+    <string name="rank_label">Rank</string>
+    <string name="name_label">Name</string>
+    <string name="solved_sudokus_label">Solved sudokus</string>
+    <string name="fastest_time_label">Fastest time</string>
+    <string name="leaderboards">Leaderboards</string>
+    <string name="sample_sudoku_image">Sample sudoku image</string>
+    <string name="saved_sudoku_board_image">Saved sudoku board image</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+</resources>
