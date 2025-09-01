@@ -1,5 +1,8 @@
-# android-sudoku
-This is a Sudoku game for Android.
+# Android Sudoku Game
+This is a Sudoku game for Android integrating Firebase.
+## Demo Video
+https://github.com/user-attachments/assets/4cf0f582-164e-45b8-a69b-a52191cf3125
+
 Players can solve randomly generated Sudoku boards based on the chosen difficulty. 
 Users logged in by email have access to saving/loading gamestates. 
 Only a single instance of the same generated Sudoku game can appear in the database. 
